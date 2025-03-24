@@ -1,4 +1,4 @@
-# Digit Recognition using EMNIST Dataset
+# Digit Recognition
 
 I developed this digit recognition project to demonstrate an end-to-end image classification pipeline using a Convolutional Neural Network (CNN). The project uses the EMNIST Digits dataset from Kaggle and covers data loading, preprocessing, model building, training, evaluation, and saving the model in multiple formats (SavedModel, TF-Lite, and TFJS).
 
